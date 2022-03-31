@@ -1,4 +1,4 @@
-<h1> Site URL: https://shopping-basket120.surge.sh/ </h1>
+<h1> Site URL: https://pakminerals.netlify.app </h1>
 
 # Getting Started with Create React App
 
