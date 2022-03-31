@@ -49,7 +49,7 @@ function Basket() {
                         <Row>
                             <Col>
                                     <Row>
-                                        <Col xs lg="3"><img src={`/images/${product.imageUrl}`} width="150px" height="180px" alt={product.imageUrl}/></Col>
+                                        <Col xs lg="3"><img src={`${product.imageUrl}`} width="150px" height="180px" alt={product.imageUrl}/></Col>
                                         <Col className="product-item" >
                                         <h5 className="h5-title">{product.title}</h5>
                                         <h5 className="h5-desc">{product.description}</h5>
